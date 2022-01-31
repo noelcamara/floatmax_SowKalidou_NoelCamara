@@ -1,0 +1,26 @@
+DGS004
+g 0 0
+an A x = 0 y = 1
+an B x = 1 y = 2
+an C x = 1 y = 0
+an D x = 2 y = 2
+an E x = 2 y = 1
+an F x = 2 y = 0
+an G x = 3 y = 2
+an H x = 3 y = 0
+an I x = 4 y = 1
+
+ae e1 A > B cap = 800
+ae e2 A > C cap = 700
+ae e3 B > D cap = 600
+ae e4 B > E cap = 100
+ae e5 C > D cap = 100
+ae e6 C > E cap = 300
+ae e7 C > F cap = 300
+ae e8 D > G cap = 700
+ae e9 D > H cap = 200
+ae e10 E > G cap = 500
+ae e11 F > G cap = 200
+ae e12 F > H cap = 200
+ae e13 H > I cap = 1000
+ae e15 G > I cap = 500

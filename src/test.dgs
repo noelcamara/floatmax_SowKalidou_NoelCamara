@@ -1,0 +1,14 @@
+DGS004
+exemplecours 0 0
+an A
+an 1
+an 2
+an 3
+an I
+
+ae e1 A > 1 cap = 15
+ae e2 A > 3 cap = 15
+ae e3 1 > 2 cap = 15
+ae e4 1 > 3 cap = 10
+ae e5 2 > I cap = 20
+ae e6 3 > I cap = 10
